@@ -1,0 +1,1 @@
+import{j as r}from"./index-BSNp0yEh.js";const s="/blog/divider-7542004.svg";function n(){return r.jsxs(r.Fragment,{children:[r.jsx("br",{}),r.jsx("figure",{children:r.jsx("img",{src:s,loading:"lazy"})}),r.jsx("br",{})]})}export{n as H};
