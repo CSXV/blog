@@ -1,0 +1,1 @@
+import{B as r,j as s}from"./index-BEV3o4Ko.js";import{T as e}from"./Time-Buj-6RXJ.js";function m(){const t=r.at(0)?.items.at(2)?.date;return s.jsxs(s.Fragment,{children:[s.jsxs("div",{children:[s.jsx(e,{prams:t}),s.jsx("h1",{children:"كيفية تشغيل نموذج ذكاء اصطناعي بشكل محلي على حاسبك"})]}),s.jsx("p",{children:"قيد الكتابة..."})]})}export{m as default};
