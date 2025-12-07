@@ -1,1 +1,0 @@
-import{B as s,j as t}from"./index-BSNp0yEh.js";import{T as i}from"./Time-BKXU64fe.js";function m(){const e=s.at(0)?.items.at(1)?.date;return t.jsxs(t.Fragment,{children:[t.jsxs("div",{children:[t.jsx(i,{prams:e}),t.jsx("h1",{children:s.at(0)?.items.at(1)?.title})]}),t.jsx("p",{children:"قيد الكتابة..."})]})}export{m as default};
