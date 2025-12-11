@@ -1,0 +1,1 @@
+import{j as s}from"./index-DOZSDwcO.js";const r="/blog/divider-7305474.svg";function o(){return s.jsx(s.Fragment,{children:s.jsx("img",{className:"end-page-Flourish",src:r,loading:"lazy"})})}const i="/blog/divider-7542004.svg";function e(){return s.jsxs(s.Fragment,{children:[s.jsx("br",{}),s.jsx("img",{src:i,loading:"lazy"}),s.jsx("br",{})]})}export{o as E,e as H};
