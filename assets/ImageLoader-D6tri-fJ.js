@@ -1,0 +1,1 @@
+import{r as a,j as m}from"./index-CUYQUuDd.js";function i({imageName:s}){const[e,t]=a.useState(""),r=`./pages/images/${s}`;return a.useEffect(()=>{import(r).then(o=>{t(o.default)})},[s]),m.jsx("img",{src:e,className:"pages-images-props",loading:"lazy"})}export{i as I};

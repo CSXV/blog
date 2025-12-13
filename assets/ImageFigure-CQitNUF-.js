@@ -1,0 +1,1 @@
+import{j as r}from"./index-CUYQUuDd.js";import{I as a}from"./ImageLoader-D6tri-fJ.js";function s({ImageName:e,children:i}){return r.jsxs("figure",{children:[r.jsx(a,{imageName:e}),r.jsx("figcaption",{children:i})]})}export{s as I};
