@@ -1,0 +1,1 @@
+import{j as e}from"./index-hF_5_zgK.js";function o({imageName:a}){const s=`/blog/images/${a}`;return e.jsx("img",{draggable:"false",src:s,className:"pages-images-props",loading:"lazy"})}export{o as I};
