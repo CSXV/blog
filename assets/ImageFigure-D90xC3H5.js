@@ -1,0 +1,1 @@
+import{j as a}from"./index-DLg_L6K5.js";function g({imageName:e}){const s=`/blog/images/${e}`;return a.jsx("img",{draggable:"false",src:s,className:"pages-images-props",loading:"lazy"})}function r({ImageName:e,children:s}){return a.jsxs("figure",{children:[a.jsx(g,{imageName:e}),a.jsx("figcaption",{children:s})]})}export{r as I,g as a};
