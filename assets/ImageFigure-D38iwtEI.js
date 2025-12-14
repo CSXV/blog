@@ -1,1 +1,0 @@
-import{j as r}from"./index-hF_5_zgK.js";import{I as a}from"./ImageLoader-BCEZ3WTT.js";function s({ImageName:e,children:i}){return r.jsxs("figure",{children:[r.jsx(a,{imageName:e}),r.jsx("figcaption",{children:i})]})}export{s as I};
