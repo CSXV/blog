@@ -1,1 +1,0 @@
-import{j as a}from"./index-CmyPGjwB.js";function g({imageName:e}){const s=`/blog/images/pages/${e}`;return a.jsx("img",{src:s,draggable:"false",loading:"lazy",className:"pages-images-props"})}function r({ImageName:e,children:s}){return a.jsxs("figure",{children:[a.jsx(g,{imageName:e}),a.jsx("figcaption",{children:s})]})}export{r as I,g as a};
