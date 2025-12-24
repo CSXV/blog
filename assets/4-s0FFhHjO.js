@@ -1,1 +1,0 @@
-import{j as t}from"./index-B0omo_RF.js";import{F as r,N as o}from"./NoteHeader-B-ko5dJZ.js";function n(){const e=r(4);return t.jsxs(t.Fragment,{children:[t.jsx(o,{timeString:e.date,title:e.title}),t.jsx("p",{children:"قيد الكتابة..."})]})}export{n as default};
