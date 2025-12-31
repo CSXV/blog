@@ -1,1 +1,0 @@
-import{j as r}from"./index-k3OQsafI.js";function t({title:i="نصيحة",type:s=1,children:a}){return r.jsxs("details",{className:s==0?"":`details-${s}`,children:[r.jsx("summary",{children:i}),a]})}export{t as T};
