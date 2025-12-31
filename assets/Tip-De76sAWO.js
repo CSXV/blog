@@ -1,0 +1,1 @@
+import{j as r}from"./index-79dXj_pL.js";function t({title:i="نصيحة",type:s=1,children:a}){return r.jsxs("details",{className:s==0?"":`details-${s}`,children:[r.jsx("summary",{children:i}),a]})}export{t as T};
