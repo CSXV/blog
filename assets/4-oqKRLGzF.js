@@ -1,1 +1,0 @@
-import{j as t}from"./index-9gUwq8i8.js";import{F as r,N as o}from"./NoteHeader-DNt_kkOu.js";function n(){const e=r(4);return t.jsxs(t.Fragment,{children:[t.jsx(o,{timeString:e.date,title:e.title}),t.jsx("p",{children:"قيد الكتابة..."})]})}export{n as default};
